@@ -5,3 +5,6 @@ I love tackling challenges and am always eager to learn more in the ever-evolvin
 
 Feel free to connect with me! 🤝
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noor1805&show_icons=true)
+
+
