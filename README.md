@@ -13,7 +13,7 @@ Feel free to connect with me! 🤝
 
 - Project 1: [Canvas Editor](https://github.com/Noor1805/canvaseditor)
   
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Noor1805&theme=github)
+[GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Noor1805&theme=github)
 
 
 
