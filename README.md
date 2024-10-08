@@ -7,12 +7,13 @@ Feel free to connect with me! 🤝
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noor1805&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noor1805)
 
-- Project 1: [Canvas Editor](https://github.com/yourusername/canvaseditor)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Noor1805)
+
+- Project 1: [Canvas Editor](https://github.com/Noor1805/canvaseditor)
   
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Noor1805&theme=github)
 
 
 
