@@ -1,18 +1,66 @@
-👋 Hi there! I’m Kashaf Noor, a BTech student in Computer Science at Netaji Subhas University.
-I have a passion for web development and have honed my skills in CSS, HTML, JavaScript, and Python.
-🌐 Currently, I’m diving into React to expand my capabilities and create dynamic web applications.
-I love tackling challenges and am always eager to learn more in the ever-evolving tech landscape. 🚀
-Feel free to connect with me!
+<h1 align="center">Hi 👋, I'm Kashaf Noor</h1>
+<h3 align="center">A Passionate Frontend Developer | React | Next.js | Tailwind | GSAP Enthusiast</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noor1805&show_icons=true&theme=cobalt)
+---
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noor1805&theme=react-dark&bg_color=0d1117&color=58a6ff&line=ffffff&point=58a6ff&area=true&hide_border=true)
+### 💫 About Me
+
+- 🎨 Frontend Developer focused on **Creative UI/UX**
+- ⚛️ Expert in **React.js**, **Next.js**, **TailwindCSS**, and **GSAP Animations**
+- 🚀 Turning designs into smooth, interactive websites
+- 🌱 Currently learning **Advanced React** + **Modern Animations**
+- ✨ Love solving problems with **clean code & creative designs**
+- 🕵️‍♀️ Fun Fact: I inspect every website's code like a spy
+
+---
+
+### 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/-React-121212?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-121212?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-121212?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![GSAP](https://img.shields.io/badge/-GSAP-121212?style=for-the-badge&logo=greensock&logoColor=88CE02)
+![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-121212?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashafnoor&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashafnoor&theme=neon-dark&hide_border=true" />
+</p>
+
+---
 
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashafnoor&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🎯 What Am I Up To?
+
+- 🚀 Building Animated Websites with **Next.js + GSAP**
+- 🎨 Designing unique components with **TailwindCSS**
+- 🧠 Learning **Framer Motion**, **UI/UX Design**, and **Micro-interactions**
+- 💡 Crafting **Portfolio Website** (Coming soon 👀)
+
+---
+
+### ✍️ Favorite Quote
+
+> “Creativity is intelligence having fun.” — *Albert Einstein*
+
+---
+
+### 💫 Code ✨ Create 🎨 Repeat 🔥
 
 
 
