@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats (Cyan + Black)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashafnoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noor1805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" />
 </p>
 
 ---
