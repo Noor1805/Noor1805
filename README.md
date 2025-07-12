@@ -39,6 +39,13 @@
 
 ---
 
+### 🌐 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noor1805&theme=github-compact&bg_color=000000&color=00FFFF&line=00FFFF&point=00FFFF&hide_border=true" />
+</p>
+
+
 ### 🎯 Currently Working On
 
 - Building advanced animated websites with **Next.js + GSAP**
