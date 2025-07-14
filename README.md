@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Tech Stack (Cyan + Black)
+### 🚀 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats (Cyan + Black)
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Noor1805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" />
