@@ -1,70 +1,88 @@
-<h1 align="center" style="color:#00FFFF;">Hi, I'm Kashaf Noor</h1>
-<h3 align="center" style="color:#00FFFF;">Frontend Developer | React | Next.js | Tailwind | GSAP</h3>
-
----
-
-### 💫 About Me
-
-- Frontend Developer focused on **Creative UI/UX**
-- Skilled in **React.js**, **Next.js**, **TailwindCSS**, **GSAP**
-- Turning designs into **interactive, animated websites**
-- Currently learning **Advanced React** + **Framer Motion**
-- Starting my journey in **Backend Development** (Node.js, Express.js, MongoDB)
-- I love clean code, smooth UI, and problem-solving
-- Fun Fact: I inspect websites like a code detective
-
----
-
-### 🚀 Tech Stack
+<h1 align="center" style="color:#FF6AD5;">Hey, I'm <span style="color:#00E1FF;">Kashaf Noor</span></h1>
+<h3 align="center" style="color:#7CFB7C;">Full-Stack MERN Developer | Next.js | Tailwind | GSAP | Animations</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=F875AA&center=true&vCenter=true&width=650&lines=Welcome+to+my+Creative+Developer+Universe;I+build+interactive+%2B+animated+web+experiences.;Always+learning.+Always+creating.">
 </p>
 
 ---
 
-### 📊 GitHub Stats 
+# 🎨 About Me  
+
+
+- Full-Stack MERN Developer passionate about **creative UI/UX**  
+- Skilled at **React, Next.js, Tailwind, GSAP & ScrollTrigger**  
+- Love **animations, micro-interactions & smooth UI**  
+- Currently learning **Framer Motion** + advanced backend  
+- Pixel-perfect design is my obsession  
+- Fun fact: I inspect UI like a forensic scientist 😂  
+
+---
+
+# ⚙️ Tech Stack  
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noor1805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" />
+  <img src="https://img.shields.io/badge/MERN-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=#00FFAA" />
+  <img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/GSAP-1A1A1A?style=for-the-badge&logo=greensock&logoColor=88FF00" />
+  <img src="https://img.shields.io/badge/ScrollTrigger-1A1A1A?style=for-the-badge&logo=greensock&logoColor=00FF88" />
+  <img src="https://img.shields.io/badge/Axios-1A1A1A?style=for-the-badge&logo=axios&logoColor=7B68EE" />
+  <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Contribution Graph
+# 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noor1805&theme=github-compact&bg_color=000000&color=00FFFF&line=00FFFF&point=00FFFF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noor1805&show_icons=true&theme=radical&border_radius=14&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noor1805&theme=radical&hide_border=true&border_radius=14" height="170"/>
 </p>
-
-
-### 🎯 Currently Working On
-
-- Building advanced animated websites with **Next.js + GSAP**
-- Designing reusable UI components in **TailwindCSS**
-- Learning **Framer Motion**, **micro-interactions**, and **UI/UX design**
-- Starting my journey in **Backend Development** (Node.js, Express.js, MongoDB)
-- Creating my own portfolio (coming soon...)
 
 ---
 
-### ✍️ Favorite Quote
+# 🗺️ Contribution Graph 
 
-> *Creativity is intelligence having fun.* — Albert Einstein
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noor1805&bg_color=000000&color=FF7CE5&line=00E1FF&point=7CFB7C&area_color=000000&hide_border=true">
+</p>
 
 ---
 
+# 📈 Profile Summary Charts  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=435&lines=Code+Create+Design+Repeat" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noor1805&theme=radical" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noor1805&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noor1805&theme=radical" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noor1805&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noor1805&theme=radical" />
 </p>
+
+---
+
+# 🧪 Currently Working On  
+- Next.js + GSAP advanced animations  
+- Reusable Tailwind components  
+- Framer Motion micro-interactions  
+- Secure MERN APIs  
+- My animated portfolio website  
+
+---
+
+# 💬 Quote  
+
+> **“Design is intelligence made visible.”**  
+
+
+
 
 
 
